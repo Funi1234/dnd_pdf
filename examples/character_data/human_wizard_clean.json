@@ -1,0 +1,155 @@
+{
+  "character": {
+    "character_info": {
+      "name": "Presto",
+      "class_and_level": "Wizard 1",
+      "race": "Human",
+      "background": "Scribe",
+      "alignment": "",
+      "player_name": "user-100341812",
+      "experience_points": ""
+    },
+    "ability_scores": {
+      "strength": {
+        "score": "8",
+        "modifier": "-1"
+      },
+      "dexterity": {
+        "score": "13",
+        "modifier": ""
+      },
+      "constitution": {
+        "score": "12",
+        "modifier": "+1"
+      },
+      "intelligence": {
+        "score": "15",
+        "modifier": "+2"
+      },
+      "wisdom": {
+        "score": "10",
+        "modifier": "+0"
+      },
+      "charisma": {
+        "score": "14",
+        "modifier": "+2"
+      }
+    },
+    "skills": {
+      "acrobatics": {
+        "bonus": "+3",
+        "proficiency": "P"
+      },
+      "animal_handling": {
+        "bonus": "+0",
+        "proficiency": ""
+      },
+      "arcana": {
+        "bonus": "+4",
+        "proficiency": "P"
+      },
+      "athletics": {
+        "bonus": "-1",
+        "proficiency": ""
+      },
+      "deception": {
+        "bonus": "+2",
+        "proficiency": ""
+      },
+      "history": {
+        "bonus": "+4",
+        "proficiency": "P"
+      },
+      "insight": {
+        "bonus": "+2",
+        "proficiency": "P"
+      },
+      "intimidation": {
+        "bonus": "+2",
+        "proficiency": ""
+      },
+      "investigation": {
+        "bonus": "+4",
+        "proficiency": "P"
+      },
+      "medicine": {
+        "bonus": "+0",
+        "proficiency": ""
+      },
+      "nature": {
+        "bonus": "+2",
+        "proficiency": ""
+      },
+      "perception": {
+        "bonus": "+2",
+        "proficiency": "P"
+      },
+      "performance": {
+        "bonus": "+2",
+        "proficiency": ""
+      },
+      "persuasion": {
+        "bonus": "+4",
+        "proficiency": "P"
+      },
+      "religion": {
+        "bonus": "+2",
+        "proficiency": ""
+      },
+      "sleight": {
+        "bonus": "",
+        "proficiency": "P"
+      },
+      "stealth": {
+        "bonus": "",
+        "proficiency": ""
+      },
+      "survival": {
+        "bonus": "+0",
+        "proficiency": ""
+      }
+    },
+    "saving_throws": {
+      "strength": "-1",
+      "dexterity": "+1",
+      "constitution": "+1",
+      "intelligence": "+4",
+      "intelligence_proficient": "\u2022",
+      "wisdom": "+2",
+      "wisdom_proficient": "\u2022",
+      "charisma": "+2"
+    },
+    "combat": {
+      "armor_class": "11",
+      "initiative": "",
+      "speed": "30",
+      "max_hp": "",
+      "current_hp": "",
+      "passive_perception": "",
+      "passive_insight": ""
+    },
+    "spellcasting": {
+      "spell_save_dc": "12",
+      "spell_attack_bonus": "+4"
+    },
+    "weapons": [
+      {
+        "name": "Dagger",
+        "attack_bonus": "+3",
+        "damage": "1d4+1 Piercing"
+      },
+      {
+        "name": "Ray of Frost",
+        "attack_bonus": "+4",
+        "damage": "1d8 Cold"
+      },
+      {
+        "name": "Unarmed Strike",
+        "attack_bonus": "+1",
+        "damage": "0 Bludgeoning"
+      }
+    ],
+    "proficiencies": "=== WEAPONS === \nSimple Weapons \n\n=== TOOLS === \nCalligrapher's Supplies \n\n=== LANGUAGES === \nCommon, Draconic, Elvish",
+    "spells": []
+  }
+}

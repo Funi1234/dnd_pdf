@@ -1,0 +1,3535 @@
+{
+  "metadata": {
+    "source_pdf": "Human_Wizard_1.pdf",
+    "total_pages": 5,
+    "total_fields": 874
+  },
+  "pages": {
+    "page_1": {
+      "page_number": 1,
+      "field_count": 146,
+      "fields": {
+        "CharacterName": {
+          "value": "Presto",
+          "field_type": "/Tx"
+        },
+        "CLASS  LEVEL": {
+          "value": "Wizard 1",
+          "field_type": "/Tx"
+        },
+        "PLAYER NAME": {
+          "value": "user-100341812",
+          "field_type": "/Tx"
+        },
+        "RACE": {
+          "value": "Human",
+          "field_type": "/Tx"
+        },
+        "BACKGROUND": {
+          "value": "Scribe",
+          "field_type": "/Tx"
+        },
+        "EXPERIENCE POINTS": {
+          "value": "(Milestone)",
+          "field_type": "/Tx"
+        },
+        "STR": {
+          "value": "8",
+          "field_type": "/Tx"
+        },
+        "STRmod": {
+          "value": "-1",
+          "field_type": "/Tx"
+        },
+        "DEX": {
+          "value": "13",
+          "field_type": "/Tx"
+        },
+        "DEXmod ": {
+          "value": "+1",
+          "field_type": "/Tx"
+        },
+        "CON": {
+          "value": "12",
+          "field_type": "/Tx"
+        },
+        "CONmod": {
+          "value": "+1",
+          "field_type": "/Tx"
+        },
+        "INT": {
+          "value": "15",
+          "field_type": "/Tx"
+        },
+        "INTmod": {
+          "value": "+2",
+          "field_type": "/Tx"
+        },
+        "WIS": {
+          "value": "10",
+          "field_type": "/Tx"
+        },
+        "WISmod": {
+          "value": "+0",
+          "field_type": "/Tx"
+        },
+        "CHA": {
+          "value": "14",
+          "field_type": "/Tx"
+        },
+        "CHamod": {
+          "value": "+2",
+          "field_type": "/Tx"
+        },
+        "StrProf": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "ST Strength": {
+          "value": "-1",
+          "field_type": "/Tx"
+        },
+        "DexProf": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "ST Dexterity": {
+          "value": "+1",
+          "field_type": "/Tx"
+        },
+        "ConProf": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "ST Constitution": {
+          "value": "+1",
+          "field_type": "/Tx"
+        },
+        "IntProf": {
+          "value": "\u2022",
+          "field_type": "/Tx"
+        },
+        "ST Intelligence": {
+          "value": "+4",
+          "field_type": "/Tx"
+        },
+        "WisProf": {
+          "value": "\u2022",
+          "field_type": "/Tx"
+        },
+        "ST Wisdom": {
+          "value": "+2",
+          "field_type": "/Tx"
+        },
+        "ChaProf": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "ST Charisma": {
+          "value": "+2",
+          "field_type": "/Tx"
+        },
+        "Defenses": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveModifiers": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "AcrobaticsProf": {
+          "value": "P",
+          "field_type": "/Tx"
+        },
+        "Acrobatics": {
+          "value": "+3",
+          "field_type": "/Tx"
+        },
+        "AcrobaticsMod": {
+          "value": "DEX",
+          "field_type": "/Tx"
+        },
+        "AnimalHandlingProf": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Animal": {
+          "value": "+0",
+          "field_type": "/Tx"
+        },
+        "AnimalMod": {
+          "value": "WIS",
+          "field_type": "/Tx"
+        },
+        "ArcanaProf": {
+          "value": "P",
+          "field_type": "/Tx"
+        },
+        "Arcana": {
+          "value": "+4",
+          "field_type": "/Tx"
+        },
+        "ArcanaMod": {
+          "value": "INT",
+          "field_type": "/Tx"
+        },
+        "AthleticsProf": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Athletics": {
+          "value": "-1",
+          "field_type": "/Tx"
+        },
+        "AthleticsMod": {
+          "value": "STR",
+          "field_type": "/Tx"
+        },
+        "DeceptionProf": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Deception": {
+          "value": "+2",
+          "field_type": "/Tx"
+        },
+        "DeceptionMod": {
+          "value": "CHA",
+          "field_type": "/Tx"
+        },
+        "HistoryProf": {
+          "value": "P",
+          "field_type": "/Tx"
+        },
+        "History": {
+          "value": "+4",
+          "field_type": "/Tx"
+        },
+        "HistoryMod": {
+          "value": "INT",
+          "field_type": "/Tx"
+        },
+        "InsightProf": {
+          "value": "P",
+          "field_type": "/Tx"
+        },
+        "Insight": {
+          "value": "+2",
+          "field_type": "/Tx"
+        },
+        "InsightMod": {
+          "value": "WIS",
+          "field_type": "/Tx"
+        },
+        "IntimidationProf": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Intimidation": {
+          "value": "+2",
+          "field_type": "/Tx"
+        },
+        "IntimidationMod": {
+          "value": "CHA",
+          "field_type": "/Tx"
+        },
+        "InvestigationProf": {
+          "value": "P",
+          "field_type": "/Tx"
+        },
+        "Investigation": {
+          "value": "+4",
+          "field_type": "/Tx"
+        },
+        "InvestigationMod": {
+          "value": "INT",
+          "field_type": "/Tx"
+        },
+        "MedicineProf": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Medicine": {
+          "value": "+0",
+          "field_type": "/Tx"
+        },
+        "MedicineMod": {
+          "value": "WIS",
+          "field_type": "/Tx"
+        },
+        "NatureProf": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Nature": {
+          "value": "+2",
+          "field_type": "/Tx"
+        },
+        "NatureMod": {
+          "value": "INT",
+          "field_type": "/Tx"
+        },
+        "PerceptionProf": {
+          "value": "P",
+          "field_type": "/Tx"
+        },
+        "Perception": {
+          "value": "+2",
+          "field_type": "/Tx"
+        },
+        "PerceptionMod": {
+          "value": "WIS",
+          "field_type": "/Tx"
+        },
+        "PerformanceProf": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Performance": {
+          "value": "+2",
+          "field_type": "/Tx"
+        },
+        "PerformanceMod": {
+          "value": "CHA",
+          "field_type": "/Tx"
+        },
+        "PersuasionProf": {
+          "value": "P",
+          "field_type": "/Tx"
+        },
+        "Persuasion": {
+          "value": "+4",
+          "field_type": "/Tx"
+        },
+        "PersuasionMod": {
+          "value": "CHA",
+          "field_type": "/Tx"
+        },
+        "ReligionProf": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Religion": {
+          "value": "+2",
+          "field_type": "/Tx"
+        },
+        "SleightOfHandProf": {
+          "value": "P",
+          "field_type": "/Tx"
+        },
+        "SleightofHand": {
+          "value": "+3",
+          "field_type": "/Tx"
+        },
+        "StealthProf": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Stealth ": {
+          "value": "+1",
+          "field_type": "/Tx"
+        },
+        "SurvivalProf": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Survival": {
+          "value": "+0",
+          "field_type": "/Tx"
+        },
+        "CustomProf1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Custom Skill Bonus 1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CustomSkill1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CustomProf2": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Custom Skill Bonus 2": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CustomSkill2": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CustomProf3": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Custom Skill Bonus 3": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CustomSkill3": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Passive1": {
+          "value": "12",
+          "field_type": "/Tx"
+        },
+        "Passive2": {
+          "value": "12",
+          "field_type": "/Tx"
+        },
+        "Passive3": {
+          "value": "14",
+          "field_type": "/Tx"
+        },
+        "AdditionalSenses": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Init": {
+          "value": "+1",
+          "field_type": "/Tx"
+        },
+        "AC": {
+          "value": "11",
+          "field_type": "/Tx"
+        },
+        "ProfBonus": {
+          "value": "+2",
+          "field_type": "/Tx"
+        },
+        "AbilitySaveDC": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "AbilitySaveScore1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "AbilitySaveScore2": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "AbilitySaveDC2": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Speed": {
+          "value": "30 ft. (Walking)",
+          "field_type": "/Tx"
+        },
+        "MaxHP": {
+          "value": "9",
+          "field_type": "/Tx"
+        },
+        "CurrentHP": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "TempHP": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "Total": {
+          "value": "1d6",
+          "field_type": "/Tx"
+        },
+        "HD": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Check Box 12": {
+          "value": "",
+          "field_type": "/Btn"
+        },
+        "Check Box 13": {
+          "value": "",
+          "field_type": "/Btn"
+        },
+        "Check Box 14": {
+          "value": "",
+          "field_type": "/Btn"
+        },
+        "Check Box 15": {
+          "value": "",
+          "field_type": "/Btn"
+        },
+        "Check Box 16": {
+          "value": "",
+          "field_type": "/Btn"
+        },
+        "Check Box 17": {
+          "value": "",
+          "field_type": "/Btn"
+        },
+        "ProficienciesLang": {
+          "value": "=== WEAPONS === \nSimple Weapons \n\n=== TOOLS === \nCalligrapher's Supplies \n\n=== LANGUAGES === \nCommon, Draconic, Elvish",
+          "field_type": "/Tx"
+        },
+        "ReligionMod": {
+          "value": "INT",
+          "field_type": "/Tx"
+        },
+        "SleightofHandMod": {
+          "value": "DEX",
+          "field_type": "/Tx"
+        },
+        "StealthMod": {
+          "value": "DEX",
+          "field_type": "/Tx"
+        },
+        "SurvivalMod": {
+          "value": "WIS",
+          "field_type": "/Tx"
+        },
+        "Actions1": {
+          "value": "=== ACTIONS === \nStandard Actions \n     Attack, Magic, Dash, Disengage, Dodge, Help, Hide, Ready, Search, Utilize, Opportunity Attack, Grapple, Shove, Improvise, Two-Weapon Fighting, Interact with an Object, Study, Influence \n\n=== SPECIAL === \nArcane Recovery \u2022 1 / Long Rest \n     When you finish a Short Rest, you can recover expended spell slots. The spell slots can have a combined level equal to no more than 1, and none of the slots can be level 6 or higher. \n\nYou can use this feature once per Long Rest.",
+          "field_type": "/Tx"
+        },
+        "Actions2": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Wpn Name": {
+          "value": "Dagger",
+          "field_type": "/Tx"
+        },
+        "Wpn1 AtkBonus": {
+          "value": "+3",
+          "field_type": "/Tx"
+        },
+        "Wpn1 Damage": {
+          "value": "1d4+1 Piercing",
+          "field_type": "/Tx"
+        },
+        "Wpn Notes 1": {
+          "value": "Simple, Finesse, Light, Thrown, Nick, Range (20/60)",
+          "field_type": "/Tx"
+        },
+        "Wpn Name 2": {
+          "value": "Ray of Frost",
+          "field_type": "/Tx"
+        },
+        "Wpn2 AtkBonus ": {
+          "value": "+4",
+          "field_type": "/Tx"
+        },
+        "Wpn2 Damage ": {
+          "value": "1d8 Cold",
+          "field_type": "/Tx"
+        },
+        "Wpn Notes 2": {
+          "value": "V/S",
+          "field_type": "/Tx"
+        },
+        "Wpn Name 3": {
+          "value": "Unarmed Strike",
+          "field_type": "/Tx"
+        },
+        "Wpn3 AtkBonus  ": {
+          "value": "+1",
+          "field_type": "/Tx"
+        },
+        "Wpn3 Damage ": {
+          "value": "0 Bludgeoning",
+          "field_type": "/Tx"
+        },
+        "Wpn Notes 3": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Wpn Name 4": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Wpn4 AtkBonus": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Wpn4 Damage": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Wpn Notes 4": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Wpn Name 5": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Wpn5 AtkBonus": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Wpn5 Damage": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Wpn Notes 5": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Wpn Name 6": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Wpn6 AtkBonus": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Wpn6 Damage": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Wpn Notes 6": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Inspiration": {
+          "value": "",
+          "field_type": "/Btn"
+        }
+      }
+    },
+    "page_2": {
+      "page_number": 2,
+      "field_count": 104,
+      "fields": {
+        "CharacterName2": {
+          "value": "Presto",
+          "field_type": "/Tx"
+        },
+        "CLASS  LEVEL2": {
+          "value": "Wizard 1",
+          "field_type": "/Tx"
+        },
+        "PLAYER NAME2": {
+          "value": "user-100341812",
+          "field_type": "/Tx"
+        },
+        "RACE2": {
+          "value": "Human",
+          "field_type": "/Tx"
+        },
+        "BACKGROUND2": {
+          "value": "Scribe",
+          "field_type": "/Tx"
+        },
+        "EXPERIENCE POINTS2": {
+          "value": "(Milestone)",
+          "field_type": "/Tx"
+        },
+        "FeaturesTraits1": {
+          "value": "=== WIZARD FEATURES === \n\n* Core Wizard Traits \u2022 PHB-2024 165 \n\n* Spellcasting \u2022 PHB-2024 165 \n\n* Ritual Adept \u2022 PHB-2024 166 \n\n* Arcane Recovery \u2022 PHB-2024 166 \nWhen you finish a Short Rest, you can recover expended spell slots. The spell slots can have a combined level equal to no more than 1, and none of the slots can be level 6 or higher. \n\nYou can use this feature once per Long Rest. \n\n   | 1 / Long Rest \u2022 Special \n\n\n=== HUMAN SPECIES TRAITS === \n\n* Size \u2022 PHB-2024 194 \nYour Size is Medium or Small, chosen when you select this species. \n\n* Speed \u2022 PHB-2024 194 \nYour Speed is 30 ft. \n\n* Resourceful \u2022 PHB-2024 194 \nYou gain Heroic Inspiration whenever you finish a Long Rest. \n\n* Skillful \u2022 PHB-2024 193 \nYou gain proficiency in one skill of your choice. \n\n* Versatile \u2022 PHB-2024 194 \nYou gain an Origin feat of your choice. \n\n* Languages \u2022 PHB-2024 37 \nYour character knows at least three languages: Common plus two languages you roll or choose from",
+          "field_type": "/Tx"
+        },
+        "FeaturesTraits2": {
+          "value": "the Standard Languages table. Knowledge of a language means your character can communicate in it, read it, and write it. \n\n\n=== FEATS === \n\n* Tough \u2022 PHB-2024 202 \nWhen you take this feat, your HP maximum increases by 2. Whenever you gain a character level thereafter, your HP maximum increases an additional 2 HP. \n\n* Scribe Ability Score Improvements \u2022 PHB-2024 184 \n\n* Skilled \u2022 PHB-2024 201 \nYou gain proficiency in any combination of three skills or tools of your choice. \n\nRepeatable. You can take this feat more than once.",
+          "field_type": "/Tx"
+        },
+        "FeaturesTraits3": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CP": {
+          "value": "0",
+          "field_type": "/Tx"
+        },
+        "SP": {
+          "value": "0",
+          "field_type": "/Tx"
+        },
+        "EP": {
+          "value": "0",
+          "field_type": "/Tx"
+        },
+        "GP": {
+          "value": "38",
+          "field_type": "/Tx"
+        },
+        "PP": {
+          "value": "0",
+          "field_type": "/Tx"
+        },
+        "Weight Carried": {
+          "value": "181 lb.",
+          "field_type": "/Tx"
+        },
+        "Encumbered": {
+          "value": "0 lb.",
+          "field_type": "/Tx"
+        },
+        "PushDragLift": {
+          "value": "0 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name0": {
+          "value": "Potion of Healing",
+          "field_type": "/Tx"
+        },
+        "Eq Qty0": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight0": {
+          "value": "0.5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name1": {
+          "value": "Dagger",
+          "field_type": "/Tx"
+        },
+        "Eq Qty1": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight1": {
+          "value": "1 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name2": {
+          "value": "Dagger",
+          "field_type": "/Tx"
+        },
+        "Eq Qty2": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight2": {
+          "value": "1 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name3": {
+          "value": "Dagger",
+          "field_type": "/Tx"
+        },
+        "Eq Qty3": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight3": {
+          "value": "1 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name4": {
+          "value": "Dagger",
+          "field_type": "/Tx"
+        },
+        "Eq Qty4": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight4": {
+          "value": "1 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name5": {
+          "value": "Quarterstaff",
+          "field_type": "/Tx"
+        },
+        "Eq Qty5": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight5": {
+          "value": "4 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name6": {
+          "value": "Spellbook",
+          "field_type": "/Tx"
+        },
+        "Eq Qty6": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight6": {
+          "value": "3 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name7": {
+          "value": "Oil",
+          "field_type": "/Tx"
+        },
+        "Eq Qty7": {
+          "value": "3",
+          "field_type": "/Tx"
+        },
+        "Eq Weight7": {
+          "value": "3 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name8": {
+          "value": "Parchment",
+          "field_type": "/Tx"
+        },
+        "Eq Qty8": {
+          "value": "10",
+          "field_type": "/Tx"
+        },
+        "Eq Weight8": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "Eq Name9": {
+          "value": "Backpack",
+          "field_type": "/Tx"
+        },
+        "Eq Qty9": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight9": {
+          "value": "5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name10": {
+          "value": "Backpack",
+          "field_type": "/Tx"
+        },
+        "Eq Qty10": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight10": {
+          "value": "5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name11": {
+          "value": "Calligrapher's Supplies",
+          "field_type": "/Tx"
+        },
+        "Eq Qty11": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight11": {
+          "value": "5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name12": {
+          "value": "Robe",
+          "field_type": "/Tx"
+        },
+        "Eq Qty12": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight12": {
+          "value": "4 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name13": {
+          "value": "Robe",
+          "field_type": "/Tx"
+        },
+        "Eq Qty13": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight13": {
+          "value": "4 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name14": {
+          "value": "Lamp",
+          "field_type": "/Tx"
+        },
+        "Eq Qty14": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight14": {
+          "value": "1 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name15": {
+          "value": "Fine Clothes",
+          "field_type": "/Tx"
+        },
+        "Eq Qty15": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight15": {
+          "value": "6 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name16": {
+          "value": "Crowbar",
+          "field_type": "/Tx"
+        },
+        "Eq Qty16": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight16": {
+          "value": "5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name17": {
+          "value": "Hammer",
+          "field_type": "/Tx"
+        },
+        "Eq Qty17": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight17": {
+          "value": "3 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name18": {
+          "value": "Piton",
+          "field_type": "/Tx"
+        },
+        "Eq Qty18": {
+          "value": "10",
+          "field_type": "/Tx"
+        },
+        "Eq Weight18": {
+          "value": "2.5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name19": {
+          "value": "Rations (1 day)",
+          "field_type": "/Tx"
+        },
+        "Eq Qty19": {
+          "value": "10",
+          "field_type": "/Tx"
+        },
+        "Eq Weight19": {
+          "value": "20 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name20": {
+          "value": "Rope, Hempen (50 feet)",
+          "field_type": "/Tx"
+        },
+        "Eq Qty20": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight20": {
+          "value": "10 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name21": {
+          "value": "Tinderbox",
+          "field_type": "/Tx"
+        },
+        "Eq Qty21": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight21": {
+          "value": "1 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name22": {
+          "value": "Torch",
+          "field_type": "/Tx"
+        },
+        "Eq Qty22": {
+          "value": "10",
+          "field_type": "/Tx"
+        },
+        "Eq Weight22": {
+          "value": "10 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name23": {
+          "value": "Waterskin",
+          "field_type": "/Tx"
+        },
+        "Eq Qty23": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight23": {
+          "value": "5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name24": {
+          "value": "Oil",
+          "field_type": "/Tx"
+        },
+        "Eq Qty24": {
+          "value": "10",
+          "field_type": "/Tx"
+        },
+        "Eq Weight24": {
+          "value": "10 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name25": {
+          "value": "Parchment",
+          "field_type": "/Tx"
+        },
+        "Eq Qty25": {
+          "value": "10",
+          "field_type": "/Tx"
+        },
+        "Eq Weight25": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "Attuned Name1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Attuned Qty1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Attuned Weight1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Attuned Name2": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Attuned Qty2": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Attuned Weight2": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Attuned Name3": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Attuned Qty3": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "AttunedWeight3": {
+          "value": "",
+          "field_type": "/Tx"
+        }
+      }
+    },
+    "page_3": {
+      "page_number": 3,
+      "field_count": 99,
+      "fields": {
+        "CharacterName3": {
+          "value": "Presto",
+          "field_type": "/Tx"
+        },
+        "CLASS  LEVEL3": {
+          "value": "Wizard 1",
+          "field_type": "/Tx"
+        },
+        "PLAYER NAME3": {
+          "value": "user-100341812",
+          "field_type": "/Tx"
+        },
+        "RACE3": {
+          "value": "Human",
+          "field_type": "/Tx"
+        },
+        "BACKGROUND3": {
+          "value": "Scribe",
+          "field_type": "/Tx"
+        },
+        "EXPERIENCE POINTS3": {
+          "value": "(Milestone)",
+          "field_type": "/Tx"
+        },
+        "FeaturesTraits4": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "FeaturesTraits5": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "FeaturesTraits6": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Eq Name26": {
+          "value": "Tinderbox",
+          "field_type": "/Tx"
+        },
+        "Eq Qty26": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight26": {
+          "value": "1 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name27": {
+          "value": "Book",
+          "field_type": "/Tx"
+        },
+        "Eq Qty27": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight27": {
+          "value": "5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name28": {
+          "value": "Lamp",
+          "field_type": "/Tx"
+        },
+        "Eq Qty28": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight28": {
+          "value": "1 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name29": {
+          "value": "Ink Pen",
+          "field_type": "/Tx"
+        },
+        "Eq Qty29": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight29": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "Eq Name30": {
+          "value": "Ink",
+          "field_type": "/Tx"
+        },
+        "Eq Qty30": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight30": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "Eq Name31": {
+          "value": "Oil",
+          "field_type": "/Tx"
+        },
+        "Eq Qty31": {
+          "value": "10",
+          "field_type": "/Tx"
+        },
+        "Eq Weight31": {
+          "value": "10 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name32": {
+          "value": "Parchment",
+          "field_type": "/Tx"
+        },
+        "Eq Qty32": {
+          "value": "10",
+          "field_type": "/Tx"
+        },
+        "Eq Weight32": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "Eq Name33": {
+          "value": "Tinderbox",
+          "field_type": "/Tx"
+        },
+        "Eq Qty33": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight33": {
+          "value": "1 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name34": {
+          "value": "Book",
+          "field_type": "/Tx"
+        },
+        "Eq Qty34": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight34": {
+          "value": "5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name35": {
+          "value": "Lamp",
+          "field_type": "/Tx"
+        },
+        "Eq Qty35": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight35": {
+          "value": "1 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name36": {
+          "value": "Ink Pen",
+          "field_type": "/Tx"
+        },
+        "Eq Qty36": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight36": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "Eq Name37": {
+          "value": "Ink",
+          "field_type": "/Tx"
+        },
+        "Eq Qty37": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight37": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "Eq Name38": {
+          "value": "Bag of Tricks",
+          "field_type": "/Tx"
+        },
+        "Eq Qty38": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight38": {
+          "value": "0.5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name39": {
+          "value": "Decanter of Endless Water",
+          "field_type": "/Tx"
+        },
+        "Eq Qty39": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight39": {
+          "value": "2 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name40": {
+          "value": "Deck of Illusions",
+          "field_type": "/Tx"
+        },
+        "Eq Qty40": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight40": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "Eq Name41": {
+          "value": "Rod of Security",
+          "field_type": "/Tx"
+        },
+        "Eq Qty41": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight41": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "Eq Name42": {
+          "value": "Wand of Secrets",
+          "field_type": "/Tx"
+        },
+        "Eq Qty42": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight42": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "Eq Name43": {
+          "value": "Potion of Healing (Greater)",
+          "field_type": "/Tx"
+        },
+        "Eq Qty43": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight43": {
+          "value": "0.5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name44": {
+          "value": "Potion of Healing (Greater)",
+          "field_type": "/Tx"
+        },
+        "Eq Qty44": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight44": {
+          "value": "0.5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name45": {
+          "value": "Potion of Healing (Greater)",
+          "field_type": "/Tx"
+        },
+        "Eq Qty45": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight45": {
+          "value": "0.5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name46": {
+          "value": "Bell",
+          "field_type": "/Tx"
+        },
+        "Eq Qty46": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight46": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "Eq Name47": {
+          "value": "Crowbar",
+          "field_type": "/Tx"
+        },
+        "Eq Qty47": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight47": {
+          "value": "5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name48": {
+          "value": "Hammer",
+          "field_type": "/Tx"
+        },
+        "Eq Qty48": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight48": {
+          "value": "3 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name49": {
+          "value": "Holy Water (flask)",
+          "field_type": "/Tx"
+        },
+        "Eq Qty49": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight49": {
+          "value": "1 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name50": {
+          "value": "Lantern, Hooded",
+          "field_type": "/Tx"
+        },
+        "Eq Qty50": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight50": {
+          "value": "2 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name51": {
+          "value": "Mirror, Steel",
+          "field_type": "/Tx"
+        },
+        "Eq Qty51": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight51": {
+          "value": "0.5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name52": {
+          "value": "Oil (flask)",
+          "field_type": "/Tx"
+        },
+        "Eq Qty52": {
+          "value": "1",
+          "field_type": "/Tx"
+        },
+        "Eq Weight52": {
+          "value": "1 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name53": {
+          "value": "Oil (flask)",
+          "field_type": "/Tx"
+        },
+        "Eq Qty53": {
+          "value": "2",
+          "field_type": "/Tx"
+        },
+        "Eq Weight53": {
+          "value": "2 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name54": {
+          "value": "Piton",
+          "field_type": "/Tx"
+        },
+        "Eq Qty54": {
+          "value": "10",
+          "field_type": "/Tx"
+        },
+        "Eq Weight54": {
+          "value": "2.5 lb.",
+          "field_type": "/Tx"
+        },
+        "Eq Name55": {
+          "value": "Rations (1 day)",
+          "field_type": "/Tx"
+        },
+        "Eq Qty55": {
+          "value": "5",
+          "field_type": "/Tx"
+        },
+        "Eq Weight55": {
+          "value": "10 lb.",
+          "field_type": "/Tx"
+        }
+      }
+    },
+    "page_4": {
+      "page_number": 4,
+      "field_count": 21,
+      "fields": {
+        "CharacterName4": {
+          "value": "Presto",
+          "field_type": "/Tx"
+        },
+        "GENDER": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "AGE": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SIZE": {
+          "value": "Medium",
+          "field_type": "/Tx"
+        },
+        "HEIGHT": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "WEIGHT": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "ALIGNMENT": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "FAITH": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SKIN": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "EYES": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "HAIR": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CHARACTER IMAGE": {
+          "value": "",
+          "field_type": "/Btn"
+        },
+        "AlliesOrganizations": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "PersonalityTraits ": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Ideals": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Bonds": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Appearance": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Flaws": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Backstory": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "AdditionalNotes1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "AdditionalNotes2": {
+          "value": "",
+          "field_type": "/Tx"
+        }
+      }
+    },
+    "page_5": {
+      "page_number": 5,
+      "field_count": 504,
+      "fields": {
+        "spellCastingAbility0": {
+          "value": "INT",
+          "field_type": "/Tx"
+        },
+        "spellSaveDC0": {
+          "value": "12",
+          "field_type": "/Tx"
+        },
+        "spellAtkBonus0": {
+          "value": "+4",
+          "field_type": "/Tx"
+        },
+        "spellCastingClass0": {
+          "value": "Wizard",
+          "field_type": "/Tx"
+        },
+        "spellPreparedHeader0": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellHeader0": {
+          "value": "=== CANTRIPS ===",
+          "field_type": "/Tx"
+        },
+        "spellSlotHeader0": {
+          "value": "(At Will)",
+          "field_type": "/Tx"
+        },
+        "spellSaveHitHeader0": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellCastingTimeHeader0": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellRangeHeader0": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellComponentsHeader0": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellDurationHeader0": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellPageHeader0": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellNotesHeader0": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellPrepared0": {
+          "value": "O",
+          "field_type": "/Tx"
+        },
+        "spellName0": {
+          "value": "Light",
+          "field_type": "/Tx"
+        },
+        "spellSource0": {
+          "value": "Wizard",
+          "field_type": "/Tx"
+        },
+        "spellSaveHit0": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "spellCastingTime0": {
+          "value": "1A",
+          "field_type": "/Tx"
+        },
+        "spellRange0": {
+          "value": "Touch",
+          "field_type": "/Tx"
+        },
+        "spellComponents0": {
+          "value": "V,M",
+          "field_type": "/Tx"
+        },
+        "spellDuration0": {
+          "value": "1 hour",
+          "field_type": "/Tx"
+        },
+        "spellPage0": {
+          "value": "PHB-2024 292",
+          "field_type": "/Tx"
+        },
+        "spellNotes0": {
+          "value": "D: 1h, V/M",
+          "field_type": "/Tx"
+        },
+        "spellPrepared1": {
+          "value": "O",
+          "field_type": "/Tx"
+        },
+        "spellName1": {
+          "value": "Mage Hand",
+          "field_type": "/Tx"
+        },
+        "spellSource1": {
+          "value": "Wizard",
+          "field_type": "/Tx"
+        },
+        "spellSaveHit1": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "spellCastingTime1": {
+          "value": "1A",
+          "field_type": "/Tx"
+        },
+        "spellRange1": {
+          "value": "30 ft.",
+          "field_type": "/Tx"
+        },
+        "spellComponents1": {
+          "value": "V,S",
+          "field_type": "/Tx"
+        },
+        "spellDuration1": {
+          "value": "1 minute",
+          "field_type": "/Tx"
+        },
+        "spellPage1": {
+          "value": "PHB-2024 293",
+          "field_type": "/Tx"
+        },
+        "spellNotes1": {
+          "value": "D: 1m, V/S",
+          "field_type": "/Tx"
+        },
+        "spellPrepared2": {
+          "value": "O",
+          "field_type": "/Tx"
+        },
+        "spellName2": {
+          "value": "Ray of Frost",
+          "field_type": "/Tx"
+        },
+        "spellSource2": {
+          "value": "Wizard",
+          "field_type": "/Tx"
+        },
+        "spellSaveHit2": {
+          "value": "+4",
+          "field_type": "/Tx"
+        },
+        "spellCastingTime2": {
+          "value": "1A",
+          "field_type": "/Tx"
+        },
+        "spellRange2": {
+          "value": "60 ft.",
+          "field_type": "/Tx"
+        },
+        "spellComponents2": {
+          "value": "V,S",
+          "field_type": "/Tx"
+        },
+        "spellDuration2": {
+          "value": "Instantaneous",
+          "field_type": "/Tx"
+        },
+        "spellPage2": {
+          "value": "PHB-2024 311",
+          "field_type": "/Tx"
+        },
+        "spellNotes2": {
+          "value": "V/S",
+          "field_type": "/Tx"
+        },
+        "spellPreparedBlankHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellNameBlankHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellSourceBlankHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellSaveHitBlankHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellCastingTimeBlankHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellRangeBlankHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellComponentsBlankHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellDurationBlankHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellPageBlankHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellNotesBlankHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellPreparedHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellHeader1": {
+          "value": "=== 1st LEVEL ===",
+          "field_type": "/Tx"
+        },
+        "spellSlotHeader1": {
+          "value": "2 Slots OO",
+          "field_type": "/Tx"
+        },
+        "spellSaveHitHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellCastingTimeHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellRangeHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellComponentsHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellDurationHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellPageHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellNotesHeader1": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "spellPrepared3": {
+          "value": "O",
+          "field_type": "/Tx"
+        },
+        "spellName3": {
+          "value": "Detect Magic [R]",
+          "field_type": "/Tx"
+        },
+        "spellSource3": {
+          "value": "Wizard",
+          "field_type": "/Tx"
+        },
+        "spellSaveHit3": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "spellCastingTime3": {
+          "value": "1A + 10m",
+          "field_type": "/Tx"
+        },
+        "spellRange3": {
+          "value": "Self/30 ft. Sphere",
+          "field_type": "/Tx"
+        },
+        "spellComponents3": {
+          "value": "V,S",
+          "field_type": "/Tx"
+        },
+        "spellDuration3": {
+          "value": "Concentration, up to 10 minutes",
+          "field_type": "/Tx"
+        },
+        "spellPage3": {
+          "value": "PHB-2024 262",
+          "field_type": "/Tx"
+        },
+        "spellNotes3": {
+          "value": "D: 10m, 30 ft. Sphere, V/S",
+          "field_type": "/Tx"
+        },
+        "spellPrepared4": {
+          "value": "O",
+          "field_type": "/Tx"
+        },
+        "spellName4": {
+          "value": "Feather Fall",
+          "field_type": "/Tx"
+        },
+        "spellSource4": {
+          "value": "Wizard",
+          "field_type": "/Tx"
+        },
+        "spellSaveHit4": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "spellCastingTime4": {
+          "value": "1R",
+          "field_type": "/Tx"
+        },
+        "spellRange4": {
+          "value": "60 ft.",
+          "field_type": "/Tx"
+        },
+        "spellComponents4": {
+          "value": "V,M",
+          "field_type": "/Tx"
+        },
+        "spellDuration4": {
+          "value": "1 minute",
+          "field_type": "/Tx"
+        },
+        "spellPage4": {
+          "value": "PHB-2024 271",
+          "field_type": "/Tx"
+        },
+        "spellNotes4": {
+          "value": "D: 1m, V/M",
+          "field_type": "/Tx"
+        },
+        "spellPrepared5": {
+          "value": "O",
+          "field_type": "/Tx"
+        },
+        "spellName5": {
+          "value": "Mage Armor",
+          "field_type": "/Tx"
+        },
+        "spellSource5": {
+          "value": "Wizard",
+          "field_type": "/Tx"
+        },
+        "spellSaveHit5": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "spellCastingTime5": {
+          "value": "1A",
+          "field_type": "/Tx"
+        },
+        "spellRange5": {
+          "value": "Touch",
+          "field_type": "/Tx"
+        },
+        "spellComponents5": {
+          "value": "V,S,M",
+          "field_type": "/Tx"
+        },
+        "spellDuration5": {
+          "value": "8 hours",
+          "field_type": "/Tx"
+        },
+        "spellPage5": {
+          "value": "PHB-2024 293",
+          "field_type": "/Tx"
+        },
+        "spellNotes5": {
+          "value": "D: 8h, V/S/M",
+          "field_type": "/Tx"
+        },
+        "spellPrepared6": {
+          "value": "O",
+          "field_type": "/Tx"
+        },
+        "spellName6": {
+          "value": "Magic Missile",
+          "field_type": "/Tx"
+        },
+        "spellSource6": {
+          "value": "Wizard",
+          "field_type": "/Tx"
+        },
+        "spellSaveHit6": {
+          "value": "--",
+          "field_type": "/Tx"
+        },
+        "spellCastingTime6": {
+          "value": "1A",
+          "field_type": "/Tx"
+        },
+        "spellRange6": {
+          "value": "120 ft.",
+          "field_type": "/Tx"
+        },
+        "spellComponents6": {
+          "value": "V,S",
+          "field_type": "/Tx"
+        },
+        "spellDuration6": {
+          "value": "Instantaneous",
+          "field_type": "/Tx"
+        },
+        "spellPage6": {
+          "value": "PHB-2024 295",
+          "field_type": "/Tx"
+        },
+        "spellNotes6": {
+          "value": "V/S",
+          "field_type": "/Tx"
+        },
+        "spellPrepared7": {
+          "value": "O",
+          "field_type": "/Tx"
+        },
+        "spellName7": {
+          "value": "Sleep",
+          "field_type": "/Tx"
+        },
+        "spellSource7": {
+          "value": "Wizard",
+          "field_type": "/Tx"
+        },
+        "spellSaveHit7": {
+          "value": "WIS 12",
+          "field_type": "/Tx"
+        },
+        "spellCastingTime7": {
+          "value": "1A",
+          "field_type": "/Tx"
+        },
+        "spellRange7": {
+          "value": "60 ft./5 ft. Sphere",
+          "field_type": "/Tx"
+        },
+        "spellComponents7": {
+          "value": "V,S,M",
+          "field_type": "/Tx"
+        },
+        "spellDuration7": {
+          "value": "Concentration, up to 1 minute",
+          "field_type": "/Tx"
+        },
+        "spellPage7": {
+          "value": "PHB-2024 317",
+          "field_type": "/Tx"
+        },
+        "spellNotes7": {
+          "value": "D: 1m, 5 ft. Sphere, V/S/M",
+          "field_type": "/Tx"
+        },
+        "spellPrepared8": {
+          "value": "O",
+          "field_type": "/Tx"
+        },
+        "spellName8": {
+          "value": "Thunderwave",
+          "field_type": "/Tx"
+        },
+        "spellSource8": {
+          "value": "Wizard",
+          "field_type": "/Tx"
+        },
+        "spellSaveHit8": {
+          "value": "CON 12",
+          "field_type": "/Tx"
+        },
+        "spellCastingTime8": {
+          "value": "1A",
+          "field_type": "/Tx"
+        },
+        "spellRange8": {
+          "value": "Self/15 ft. Cube",
+          "field_type": "/Tx"
+        },
+        "spellComponents8": {
+          "value": "V,S",
+          "field_type": "/Tx"
+        },
+        "spellDuration8": {
+          "value": "Instantaneous",
+          "field_type": "/Tx"
+        },
+        "spellPage8": {
+          "value": "PHB-2024 334",
+          "field_type": "/Tx"
+        },
+        "spellNotes8": {
+          "value": "15 ft. Cube, V/S",
+          "field_type": "/Tx"
+        },
+        "Prepared12": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName12": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource12": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit12": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime12": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range12": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components12": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration12": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source12": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes12": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared13": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName13": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource13": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit13": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime13": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range13": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components13": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration13": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source13": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes13": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared14": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName14": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource14": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit14": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime14": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range14": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components14": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration14": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source14": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes14": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared15": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName15": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource15": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit15": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime15": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range15": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components15": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration15": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source15": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes15": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared16": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName16": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource16": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit16": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime16": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range16": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components16": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration16": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source16": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes16": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared17": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName17": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource17": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit17": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime17": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range17": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components17": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration17": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source17": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes17": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared18": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName18": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource18": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit18": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime18": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range18": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components18": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration18": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source18": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes18": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared19": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName19": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource19": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit19": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime19": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range19": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components19": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration19": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source19": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes19": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared20": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName20": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource20": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit20": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime20": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range20": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components20": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration20": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source20": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes20": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared21": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName21": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource21": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit21": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime21": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range21": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components21": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration21": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source21": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes21": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared22": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName22": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource22": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit22": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime22": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range22": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components22": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration22": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source22": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes22": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared23": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName23": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource23": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit23": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime23": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range23": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components23": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration23": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source23": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes23": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared24": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName24": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource24": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit24": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime24": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range24": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components24": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration24": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source24": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes24": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared25": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName25": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource25": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit25": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime25": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range25": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components25": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration25": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source25": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes25": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared26": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName26": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource26": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit26": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime26": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range26": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components26": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration26": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source26": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes26": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared27": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName27": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource27": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit27": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime27": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range27": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components27": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration27": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source27": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes27": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared28": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName28": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource28": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit28": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime28": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range28": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components28": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration28": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source28": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes28": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared29": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName29": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource29": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit29": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime29": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range29": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components29": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration29": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source29": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes29": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared30": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName30": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource30": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit30": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime30": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range30": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components30": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration30": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source30": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes30": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared31": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName31": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource31": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit31": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime31": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range31": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components31": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration31": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source31": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes31": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared32": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName32": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource32": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit32": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime32": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range32": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components32": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration32": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source32": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes32": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared33": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName33": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource33": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit33": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime33": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range33": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components33": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration33": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source33": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes33": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared34": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName34": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource34": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit34": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime34": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range34": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components34": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration34": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source34": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes34": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared35": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName35": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource35": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit35": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime35": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range35": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components35": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration35": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source35": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes35": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared36": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName36": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource36": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit36": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime36": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range36": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components36": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration36": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source36": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes36": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared37": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName37": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource37": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit37": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime37": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range37": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components37": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration37": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source37": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes37": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared38": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName38": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource38": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit38": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime38": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range38": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components38": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration38": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source38": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes38": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared39": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName39": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource39": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit39": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime39": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range39": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components39": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration39": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source39": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes39": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared40": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName40": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource40": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit40": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime40": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range40": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components40": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration40": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source40": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes40": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared41": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName41": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource41": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit41": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime41": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range41": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components41": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration41": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source41": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes41": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared42": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName42": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource42": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit42": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime42": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range42": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components42": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration42": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source42": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes42": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared43": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName43": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource43": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit43": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime43": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range43": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components43": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration43": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source43": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes43": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared44": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName44": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource44": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit44": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime44": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range44": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components44": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration44": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source44": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes44": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared45": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName45": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource45": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit45": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime45": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range45": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components45": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration45": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source45": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes45": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared46": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName46": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource46": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit46": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime46": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range46": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components46": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration46": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source46": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes46": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared47": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName47": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource47": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit47": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime47": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range47": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components47": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration47": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source47": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes47": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared48": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName48": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource48": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit48": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime48": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range48": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components48": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration48": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source48": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes48": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Prepared49": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellName49": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SpellSource49": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "SaveHit49": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "CastingTime49": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Range49": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Components49": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Duration49": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Source49": {
+          "value": "",
+          "field_type": "/Tx"
+        },
+        "Notes49": {
+          "value": "",
+          "field_type": "/Tx"
+        }
+      }
+    }
+  }
+}

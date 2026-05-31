@@ -1,0 +1,150 @@
+{
+  "character": {
+    "character_info": {
+      "name": "Dwarf Cleric",
+      "class_and_level": "Cleric 1",
+      "race": "Dwarf",
+      "background": "Acolyte",
+      "alignment": "",
+      "player_name": "user-100341812",
+      "experience_points": ""
+    },
+    "ability_scores": {
+      "strength": {
+        "score": "14",
+        "modifier": "+2"
+      },
+      "dexterity": {
+        "score": "8",
+        "modifier": ""
+      },
+      "constitution": {
+        "score": "10",
+        "modifier": "+0"
+      },
+      "intelligence": {
+        "score": "12",
+        "modifier": "+1"
+      },
+      "wisdom": {
+        "score": "15",
+        "modifier": "+2"
+      },
+      "charisma": {
+        "score": "13",
+        "modifier": "+1"
+      }
+    },
+    "skills": {
+      "acrobatics": {
+        "bonus": "-1",
+        "proficiency": ""
+      },
+      "animal_handling": {
+        "bonus": "+2",
+        "proficiency": ""
+      },
+      "arcana": {
+        "bonus": "+3",
+        "proficiency": ""
+      },
+      "athletics": {
+        "bonus": "+2",
+        "proficiency": ""
+      },
+      "deception": {
+        "bonus": "+1",
+        "proficiency": ""
+      },
+      "history": {
+        "bonus": "+1",
+        "proficiency": ""
+      },
+      "insight": {
+        "bonus": "+4",
+        "proficiency": "P"
+      },
+      "intimidation": {
+        "bonus": "+1",
+        "proficiency": ""
+      },
+      "investigation": {
+        "bonus": "+1",
+        "proficiency": ""
+      },
+      "medicine": {
+        "bonus": "+4",
+        "proficiency": "P"
+      },
+      "nature": {
+        "bonus": "+1",
+        "proficiency": ""
+      },
+      "perception": {
+        "bonus": "+4",
+        "proficiency": "P"
+      },
+      "performance": {
+        "bonus": "+1",
+        "proficiency": ""
+      },
+      "persuasion": {
+        "bonus": "+1",
+        "proficiency": ""
+      },
+      "religion": {
+        "bonus": "+5",
+        "proficiency": "P"
+      },
+      "sleight": {
+        "bonus": "",
+        "proficiency": ""
+      },
+      "stealth": {
+        "bonus": "",
+        "proficiency": ""
+      },
+      "survival": {
+        "bonus": "+2",
+        "proficiency": ""
+      }
+    },
+    "saving_throws": {
+      "strength": "+2",
+      "dexterity": "-1",
+      "constitution": "+0",
+      "intelligence": "+1",
+      "wisdom": "+4",
+      "wisdom_proficient": "\u2022",
+      "charisma": "+3",
+      "charisma_proficient": "\u2022"
+    },
+    "combat": {
+      "armor_class": "12",
+      "initiative": "",
+      "speed": "30",
+      "max_hp": "",
+      "current_hp": "",
+      "passive_perception": "",
+      "passive_insight": ""
+    },
+    "spellcasting": {
+      "spell_save_dc": "12",
+      "spell_attack_bonus": "+4"
+    },
+    "weapons": [
+      {
+        "name": "Mace",
+        "attack_bonus": "+4",
+        "damage": "1d6+2 Bludgeoning"
+      },
+      {
+        "name": "Unarmed Strike",
+        "attack_bonus": "+4",
+        "damage": "3 Bludgeoning"
+      }
+    ],
+    "proficiencies": "=== ARMOR === \nLight Armor, Medium Armor, Shields \n\n=== WEAPONS === \nSimple Weapons \n\n=== TOOLS === \nCalligrapher's Supplies \n\n=== LANGUAGES === \nCommon, Dwarvish, Halfling",
+    "spells": []
+  }
+}

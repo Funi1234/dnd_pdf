@@ -39,10 +39,18 @@ def map_combat(char_data, fields, layout='combined', level=5):
     fields[f'Front_Total Hit Dice{suffix}'] = str(level)
     # Used Hit Dice - leave blank for user to fill
 
-    # Spell Attack and Save DC on page 1 (oddly named fields!)
-    # Note: Despite the names, these are actually spell attack/save DC
-    fields[f'Front_Cantrips Known{suffix}'] = char_data['spellcasting']['spell_attack_bonus']
+    # Try to fill spell attack/DC on page 1 (different field names per class)
+    # Standard classes (Cleric/Wizard/etc): Front_Spell DC, Front_Spell Atk
+    # Artificer has weird names: Front_Spells Known (DC), Front_Cantrips Known (atk)
+    # BUT: Don't fill Front_Cantrips Known - it means different things per class!
+
+    # Standard spell DC/Attack fields
+    fields[f'Front_Spell DC{suffix}'] = char_data['spellcasting']['spell_save_dc']
+    fields[f'Front_Spell Atk{suffix}'] = char_data['spellcasting']['spell_attack_bonus']
+
+    # Artificer-specific weird names (only fill Spells Known, not Cantrips Known)
     fields[f'Front_Spells Known{suffix}'] = char_data['spellcasting']['spell_save_dc']
+    # NOT filling Front_Cantrips Known - means different things for different classes
 
     return fields
 

@@ -13,10 +13,18 @@ __pycache__/
 output/*.pdf
 output/temp/
 
-# Character-specific files (examples, not for git)
+# Character-specific files (not for git)
 data/character_data/
 data/*_extracted.json
 data/*_character_data*.json
+
+# Ignore all source PDFs except examples
+data/source_pdfs/*
+!data/source_pdfs/Cleric_EU A4.pdf
+!data/source_pdfs/Wizard_EU A4.pdf
+
+# Example outputs (generated, not committed)
+examples/output_sheets/*.pdf
 
 # IDE
 .vscode/
