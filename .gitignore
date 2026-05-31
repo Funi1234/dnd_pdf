@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Output files
+output/*.pdf
+output/temp/
+
+# Character-specific files (examples, not for git)
+data/character_data/
+data/*_extracted.json
+data/*_character_data*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
