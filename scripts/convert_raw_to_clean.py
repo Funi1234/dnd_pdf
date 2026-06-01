@@ -18,23 +18,16 @@ import os
 
 
 def normalize_text(text):
-    """
-    Normalize special characters from D&D Beyond PDFs
-
-    Converts curly quotes/apostrophes to standard ASCII
-    """
     if not text or not isinstance(text, str):
         return text
-
-    # Replace curly apostrophes and quotes
-    text = text.replace(''', "'")  # Right single quote
-    text = text.replace(''', "'")  # Left single quote
-    text = text.replace('"', '"')  # Left double quote
-    text = text.replace('"', '"')  # Right double quote
-    text = text.replace('–', '-')  # En dash
-    text = text.replace('—', '-')  # Em dash
-
+    text = text.replace(chr(0x2019), "'")
+    text = text.replace(chr(0x2018), "'")
+    text = text.replace(chr(0x201D), '"')
+    text = text.replace(chr(0x201C), '"')
+    text = text.replace(chr(0x2013), "-")
+    text = text.replace(chr(0x2014), "-")
     return text
+
 
 
 def get_field_value(pages_data, field_name, variants=None):
