@@ -48,9 +48,11 @@ def map_combat(char_data, fields, layout='combined', level=5):
     fields[f'Front_Spell DC{suffix}'] = char_data['spellcasting']['spell_save_dc']
     fields[f'Front_Spell Atk{suffix}'] = char_data['spellcasting']['spell_attack_bonus']
 
-    # Artificer-specific weird names (only fill Spells Known, not Cantrips Known)
+    # Artificer-specific BACKWARDS field names (see CLAUDE.md gotcha #1)
+    # Front_Cantrips Known = Actually Spell Attack Bonus
+    # Front_Spells Known = Actually Spell Save DC
     fields[f'Front_Spells Known{suffix}'] = char_data['spellcasting']['spell_save_dc']
-    # NOT filling Front_Cantrips Known - means different things for different classes
+    fields[f'Front_Cantrips Known{suffix}'] = char_data['spellcasting']['spell_attack_bonus']
 
     return fields
 

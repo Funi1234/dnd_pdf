@@ -1,0 +1,6280 @@
+{
+  "metadata": {
+    "class_name": "Sorcerer",
+    "template_name": "Sorcerer EU A4",
+    "source_pdf": "Sorcerer_EU A4.pdf",
+    "total_fields": 1670,
+    "total_pages": 9,
+    "pages_with_fields": 7,
+    "extraction_note": "Fields organized by page and category"
+  },
+  "pages": {
+    "page_1": {
+      "page_number": 1,
+      "field_count": 275,
+      "categories": {
+        "abilities": {
+          "count": 21,
+          "fields": [
+            {
+              "name": "Front_Str Mod",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Str Score",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Dex Mod",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Dex Score",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Con Mod",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Con Score",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Int Mod",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Int Score",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Wis Mod",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Wis Score",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Cha Mod",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Cha Score",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Intimidation",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Intimidation",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Intimidation",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Sorcery Points Used",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Sorcery Points Total",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Concentration 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Concentration 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Concentration 3",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Concentration 4",
+              "type": "/Btn",
+              "default_value": ""
+            }
+          ]
+        },
+        "character_info": {
+          "count": 37,
+          "fields": [
+            {
+              "name": "Front_Character Name",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Race",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Background",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Alignment",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Level",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 1",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 2",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 3",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 4",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 5",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 6",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 7",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 8",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 9",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 10",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 11",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 12",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 13",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 14",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 15",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 16",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 17",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 18",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 19",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 20",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 21",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 22",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 23",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 24",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 25",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 26",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 27",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 28",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 29",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 30",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 31",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 32",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "combat": {
+          "count": 14,
+          "fields": [
+            {
+              "name": "Front_Initiative",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Speed",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Max HP",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Current HP",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Temp HP",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Used Hit Dice",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Total Hit Dice",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Damage 1",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Damage 2",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Damage 3",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Attack Name 1",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Attack Name 2",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Attack Name 3",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Attack Name 4",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "equipment": {
+          "count": 9,
+          "fields": [
+            {
+              "name": "Front_Inspiration",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Simple Weapons",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Martial Weapons",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Name 1",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Atk Bonus 1",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Name 2",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Atk Bonus 2",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Name 3",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Atk Bonus 3",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "features": {
+          "count": 3,
+          "fields": [
+            {
+              "name": "Front_Proficiency",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Racial Traits",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Languages",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "other": {
+          "count": 21,
+          "fields": [
+            {
+              "name": "Front_XP",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Archetype",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Light Armour",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Medium Armour",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Heavy Armour",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Shields",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Tools",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_AC",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Shield Bonus",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Success 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Success 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Success 3",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Fail 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Fail 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Fail 3",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Metamagic Options",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Metamagic Known",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Sorcerous Origin 1",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Sorcerous Origin 6",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Sorcerous Origin 14",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Sorcerous Origin 18",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "saving_throws": {
+          "count": 12,
+          "fields": [
+            {
+              "name": "Front_Save Str",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Str Save Throw",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Save Dex",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Dex Save Throw",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Save Con",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Con Save Throw",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Save Int",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Int Save Throw",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Save Wis",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Wis Save Throw",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Save Cha",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Cha Save Throw",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "skills": {
+          "count": 53,
+          "fields": [
+            {
+              "name": "Front_Passive Perception",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Passive Insight",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Athletics",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Athletics",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Athletics",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Acrobatics",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Acrobatics",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Acrobatics",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Sleight of Hand",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Sleight of Hand",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Sleight of Hand",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Stealth",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Stealth",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Stealth",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Arcana",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Arcana",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Arcana",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise History",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency History",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill History",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Investigation",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Investigation",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Investigation",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Nature",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Nature",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Nature",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Religion",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Religion",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Religion",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Animal Handling",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Animal Handling",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Animal Handling",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Insight",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Insight",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Insight",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Medicine",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Medicine",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Medicine",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Perception",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Perception",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Perception",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Survival",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Survival",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Survival",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Deception",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Deception",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Deception",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Performance",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Performance",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Performance",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Persuasion",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Persuasion",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Persuasion",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "spells": {
+          "count": 105,
+          "fields": [
+            {
+              "name": "Front_Spell Atk",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell DC",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Range 1",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Casting Time 1",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Save 1",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Effect 1",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Range 2",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Casting Time 2",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Save 2",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Effect 2",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Range 3",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Casting Time 3",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Save 3",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Effect 3",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Range 4",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Casting Time 4",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Save 4",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Effect 4",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 1st 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 1st 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 1st 3",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 1st 4",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 2nd 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 2nd 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 2nd 3",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 3rd 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 3rd 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 3rd 3",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 4th 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 4th 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 4th 3",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 5th 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 5th 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 5th 3",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 6th 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 6th 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 7th 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 7th 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 8th 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 9th 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Cantrips Known",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 1",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 2",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 3",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 3",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 4",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 4",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 5",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 5",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 6",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 6",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 7",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 7",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 8",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 8",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 9",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 9",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 10",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 10",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 11",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 11",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 12",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 12",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 13",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 13",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 14",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 14",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 15",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 15",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 16",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 16",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 17",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 17",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 18",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 18",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 19",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 19",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 20",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 20",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 21",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 21",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 22",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 22",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 23",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 23",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 24",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 24",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 25",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 25",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 26",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 26",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 27",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 27",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 28",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 28",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 29",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 29",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 30",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 30",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 31",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 31",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 32",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 32",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        }
+      }
+    },
+    "page_2": {
+      "page_number": 2,
+      "field_count": 275,
+      "categories": {
+        "abilities": {
+          "count": 19,
+          "fields": [
+            {
+              "name": "Front_Str Mod-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Str Score-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Dex Mod-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Dex Score-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Con Mod-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Con Score-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Int Mod-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Int Score-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Wis Mod-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Wis Score-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Cha Mod-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Cha Score-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Intimidation-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Intimidation-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Intimidation-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Concentration 1-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Concentration 2-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Concentration 3-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Concentration 4-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            }
+          ]
+        },
+        "character_info": {
+          "count": 37,
+          "fields": [
+            {
+              "name": "Front_Character Name-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Race-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Background-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Alignment-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Level-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 1-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 2-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 3-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 4-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 5-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 6-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 7-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 8-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 9-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 10-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 11-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 12-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 13-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 14-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 15-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 16-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 17-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 18-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 19-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 20-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 21-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 22-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 23-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 24-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 25-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 26-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 27-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 28-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 29-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 30-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 31-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Level 32-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "combat": {
+          "count": 14,
+          "fields": [
+            {
+              "name": "Front_Initiative-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Speed-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Max HP-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Current HP-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Temp HP-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Used Hit Dice-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Total Hit Dice-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Damage 1-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Damage 2-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Damage 3-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Attack Name 1-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Attack Name 2-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Attack Name 3-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Attack Name 4-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "equipment": {
+          "count": 11,
+          "fields": [
+            {
+              "name": "Front_Inspiration-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Simple Weapons-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Martial Weapons-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Name 1-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Atk Bonus 1-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Name 2-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Atk Bonus 2-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Name 3-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Atk Bonus 3-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Inspiration Used-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Inspiration Total-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "features": {
+          "count": 3,
+          "fields": [
+            {
+              "name": "Front_Proficiency-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Racial Traits-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Languages-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "other": {
+          "count": 21,
+          "fields": [
+            {
+              "name": "Front_XP-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Archetype-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Light Armour-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Medium Armour-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Heavy Armour-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Shields-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Tools-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_AC-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Shield Bonus-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Success 1-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Success 2-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Success 3-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Fail 1-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Fail 2-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Fail 3-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Metamagic Options-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Metamagic Known-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Sorcerous Origin 1-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Sorcerous Origin 6-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Sorcerous Origin 14-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Sorcerous Origin 18-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "saving_throws": {
+          "count": 12,
+          "fields": [
+            {
+              "name": "Front_Save Str-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Str Save Throw-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Save Dex-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Dex Save Throw-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Save Con-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Con Save Throw-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Save Int-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Int Save Throw-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Save Wis-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Wis Save Throw-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Save Cha-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Cha Save Throw-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "skills": {
+          "count": 53,
+          "fields": [
+            {
+              "name": "Front_Passive Perception-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Passive Insight-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Athletics-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Athletics-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Athletics-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Acrobatics-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Acrobatics-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Acrobatics-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Sleight of Hand-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Sleight of Hand-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Sleight of Hand-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Stealth-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Stealth-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Stealth-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Arcana-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Arcana-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Arcana-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise History-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency History-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill History-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Investigation-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Investigation-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Investigation-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Nature-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Nature-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Nature-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Religion-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Religion-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Religion-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Animal Handling-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Animal Handling-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Animal Handling-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Insight-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Insight-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Insight-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Medicine-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Medicine-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Medicine-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Perception-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Perception-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Perception-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Survival-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Survival-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Survival-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Deception-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Deception-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Deception-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Performance-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Performance-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Performance-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Persuasion-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Persuasion-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Persuasion-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "spells": {
+          "count": 105,
+          "fields": [
+            {
+              "name": "Front_Spell Atk-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell DC-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Range 1-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Casting Time 1-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Save 1-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Effect 1-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Range 2-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Casting Time 2-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Save 2-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Effect 2-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Range 3-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Casting Time 3-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Save 3-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Effect 3-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Range 4-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Casting Time 4-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Save 4-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Effect 4-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 1st 1-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 1st 2-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 1st 3-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 1st 4-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 2nd 1-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 2nd 2-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 2nd 3-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 3rd 1-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 3rd 2-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 3rd 3-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 4th 1-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 4th 2-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 4th 3-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 5th 1-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 5th 2-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 5th 3-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 6th 1-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 6th 2-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 7th 1-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 7th 2-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 8th 1-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Slot 9th 1-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Cantrips Known-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 1-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 1-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 2-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 2-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 3-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 3-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 4-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 4-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 5-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 5-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 6-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 6-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 7-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 7-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 8-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 8-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 9-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 9-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 10-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 10-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 11-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 11-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 12-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 12-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 13-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 13-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 14-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 14-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 15-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 15-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 16-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 16-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 17-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 17-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 18-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 18-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 19-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 19-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 20-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 20-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 21-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 21-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 22-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 22-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 23-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 23-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 24-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 24-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 25-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 25-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 26-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 26-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 27-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 27-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 28-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 28-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 29-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 29-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 30-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 30-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 31-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 31-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Ritual 32-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Spell Name 32-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        }
+      }
+    },
+    "page_3": {
+      "page_number": 3,
+      "field_count": 55,
+      "categories": {
+        "abilities": {
+          "count": 1,
+          "fields": [
+            {
+              "name": "Back_Character Portrait",
+              "type": "/Btn",
+              "default_value": ""
+            }
+          ]
+        },
+        "character_info": {
+          "count": 2,
+          "fields": [
+            {
+              "name": "Back_Character Name",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Background",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "equipment": {
+          "count": 5,
+          "fields": [
+            {
+              "name": "Back_CP",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_SP",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_EP",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_GP",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_PP",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "features": {
+          "count": 2,
+          "fields": [
+            {
+              "name": "Back_Personality Traits",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Additional Features & Traits",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "other": {
+          "count": 41,
+          "fields": [
+            {
+              "name": "Back_Age",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Height",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Weight",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Distinguishing Marks",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Eyes",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Skin",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Hair",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Scars",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Enemies",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Head",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Head",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Amulet",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Amulet",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Cloak",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Cloak",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Armour",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Armour",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Arms",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Ring1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Ring2",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Ring2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Belt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Belt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Boots",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Boots",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 01",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 01",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 01",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 02",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 02",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 02",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 03",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 03",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 03",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 04",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 04",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 04",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 05",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 05",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 05",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Backpack",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "personality": {
+          "count": 4,
+          "fields": [
+            {
+              "name": "Back_Ideals",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Bonds",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Flaws",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Allies",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        }
+      }
+    },
+    "page_4": {
+      "page_number": 4,
+      "field_count": 82,
+      "categories": {
+        "abilities": {
+          "count": 13,
+          "fields": [
+            {
+              "name": "Back_Character Portrait-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Str-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Str-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Dex-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Dex-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Con-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Con-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Int-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Int-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Wis-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Wis-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Cha-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Cha-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            }
+          ]
+        },
+        "character_info": {
+          "count": 2,
+          "fields": [
+            {
+              "name": "Back_Character Name-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Background-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "combat": {
+          "count": 8,
+          "fields": [
+            {
+              "name": "Front_Servant HP-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant AC-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Initiative-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Speed-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Attack Name 1-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Damage 1-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Attack Name 2-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Damage 2-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "equipment": {
+          "count": 5,
+          "fields": [
+            {
+              "name": "Back_CP-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_SP-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_EP-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_GP-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_PP-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "features": {
+          "count": 3,
+          "fields": [
+            {
+              "name": "Back_Personality Traits-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Additional Features & Traits-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Features-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "other": {
+          "count": 47,
+          "fields": [
+            {
+              "name": "Back_Age-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Height-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Weight-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Distinguishing Marks-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Eyes-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Skin-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Hair-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Scars-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Enemies-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Companion Name-Fam",
+              "type": "/Tx",
+              "default_value": "FAMILIAR NAME"
+            },
+            {
+              "name": "Front_Servant Skills-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Senses-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Atk Bonus 1-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Atk Bonus 2-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Head-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Head-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Amulet-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Amulet-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Cloak-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Cloak-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Armour-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Armour-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Arms-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Ring1-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Ring1-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Ring2-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Ring2-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Belt-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Belt-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Boots-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Boots-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 01-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 01-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 01-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 02-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 02-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 02-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 03-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 03-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 03-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 04-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 04-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 04-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 05-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 05-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 05-Fam",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Backpack-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "personality": {
+          "count": 4,
+          "fields": [
+            {
+              "name": "Back_Ideals-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Bonds-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Flaws-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Allies-Fam",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        }
+      }
+    },
+    "page_5": {
+      "page_number": 5,
+      "field_count": 81,
+      "categories": {
+        "abilities": {
+          "count": 13,
+          "fields": [
+            {
+              "name": "Back_Character Portrait-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Str-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Str-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Dex-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Dex-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Con-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Con-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Int-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Int-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Wis-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Wis-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Cha-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Cha-SK",
+              "type": "/Btn",
+              "default_value": ""
+            }
+          ]
+        },
+        "character_info": {
+          "count": 2,
+          "fields": [
+            {
+              "name": "Back_Character Name-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Background-SK",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "combat": {
+          "count": 8,
+          "fields": [
+            {
+              "name": "Front_Servant HP-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant AC-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Initiative-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Speed-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Attack Name 1-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Damage 1-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Attack Name 2-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Damage 2-SK",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "equipment": {
+          "count": 5,
+          "fields": [
+            {
+              "name": "Back_CP-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_SP-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_EP-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_GP-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_PP-SK",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "features": {
+          "count": 2,
+          "fields": [
+            {
+              "name": "Back_Personality Traits-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Features-SK",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "other": {
+          "count": 47,
+          "fields": [
+            {
+              "name": "Back_Age-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Height-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Weight-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Distinguishing Marks-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Eyes-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Skin-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Hair-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Scars-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Enemies-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Skills-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Senses-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Atk Bonus 1-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Atk Bonus 2-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Head-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Head-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Amulet-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Amulet-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Cloak-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Cloak-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Armour-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Armour-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Arms-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Arms-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Ring1-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Ring1-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Ring2-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Ring2-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Belt-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Belt-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Boots-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Boots-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 01-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 01-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 01-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 02-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 02-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 02-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 03-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 03-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 03-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 04-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 04-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 04-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 05-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 05-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 05-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Backpack-SK",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "personality": {
+          "count": 4,
+          "fields": [
+            {
+              "name": "Back_Ideals-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Flaws-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Bonds-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Allies-SK",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        }
+      }
+    },
+    "page_8": {
+      "page_number": 8,
+      "field_count": 208,
+      "categories": {
+        "abilities": {
+          "count": 12,
+          "fields": [
+            {
+              "name": "SpellSheet1_Concentration 01",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 02",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 03",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 04",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 05",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 06",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 07",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 08",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 09",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 10",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 11",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 12",
+              "type": "/Btn",
+              "default_value": ""
+            }
+          ]
+        },
+        "character_info": {
+          "count": 12,
+          "fields": [
+            {
+              "name": "SpellSheet 1_Spells Level 01",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 02",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 03",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 04",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 05",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 06",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 07",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 08",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 09",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 10",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 11",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 12",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "spells": {
+          "count": 184,
+          "fields": [
+            {
+              "name": "SpellSheet 1_Spell Atk",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spell DC",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Cantrips Known",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Known",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Component Pouch",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 1st 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 1st 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 1st 3",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 1st 4",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 2nd 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 2nd 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 2nd 3",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 3rd 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 3rd 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 3rd 3",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 4th 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 4th 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 4th 3",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 5th 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 5th 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 5th 3",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 6th 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 6th 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 7th 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 7th 2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 8th 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Slot 9th 1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spellcasting Focus",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 01",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 01",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 01",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 01",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 01",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 01",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 01",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 01",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 01",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 01",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 01",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 01",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 01",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 02",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 02",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 02",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 02",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 02",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 02",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 02",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Component 02",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 02",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 02",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 02",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 02",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 02",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 03",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 03",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 03",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 03",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 03",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 03",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 03",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 03",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 03",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 03",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 03",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 03",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 03",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 04",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 04",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 04",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 04",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 04",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 04",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 04",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 04",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 04",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 04",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 04",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 04",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 04",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 05",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 05",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 05",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 05",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 05",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 05",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 05",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 05",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 05",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 05",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 05",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 05",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 05",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 06",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 06",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 06",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 06",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 06",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 06",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 06",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 06",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 06",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 06",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 06",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 06",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 06",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 07",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 07",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 07",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 07",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 07",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 07",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 07",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 07",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 07",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 07",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 07",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 07",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 07",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 08",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 08",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 08",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 08",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 08",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 08",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 08",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 08",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 08",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 08",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 08",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 08",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 08",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 09",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 09",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 09",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 09",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 09",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 09",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 09",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 09",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 09",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 09",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 09",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 09",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 09",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 10",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 10",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 10",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 10",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 10",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 10",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 10",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 10",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 10",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 10",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 10",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 10",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 10",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 11",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 11",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 11",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 11",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 11",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 11",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 11",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 11",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 11",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 11",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 11",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 11",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 11",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 12",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 12",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 12",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 12",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 12",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 12",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 12",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 12",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 12",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 12",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 12",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 12",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 12",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        }
+      }
+    },
+    "page_9": {
+      "page_number": 9,
+      "field_count": 225,
+      "categories": {
+        "abilities": {
+          "count": 15,
+          "fields": [
+            {
+              "name": "SpellSheet1_Concentration 01-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 02-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 03-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 04-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 05-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 06-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 07-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 08-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 09-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 10-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 11-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 12-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 13-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 14-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Concentration 15-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            }
+          ]
+        },
+        "character_info": {
+          "count": 15,
+          "fields": [
+            {
+              "name": "SpellSheet 1_Spells Level 01-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 02-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 03-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 04-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 05-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 06-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 07-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 08-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 09-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 10-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 11-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 12-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 13-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 14-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet 1_Spells Level 15-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "spells": {
+          "count": 195,
+          "fields": [
+            {
+              "name": "SpellSheet1_Spell Name 01-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 01-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 01-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 01-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 01-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 01-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 01-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 01-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 01-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 01-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 01-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 01-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 01-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 02-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 02-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 02-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 02-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 02-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 02-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 02-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Component 02-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 02-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 02-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 02-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 02-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 02-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 03-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 03-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 03-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 03-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 03-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 03-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 03-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 03-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 03-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 03-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 03-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 03-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 03-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 04-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 04-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 04-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 04-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 04-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 04-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 04-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 04-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 04-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 04-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 04-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 04-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 04-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 05-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 05-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 05-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 05-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 05-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 05-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 05-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 05-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 05-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 05-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 05-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 05-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 05-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 06-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 06-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 06-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 06-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 06-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 06-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 06-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 06-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 06-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 06-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 06-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 06-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 06-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 07-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 07-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 07-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 07-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 07-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 07-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 07-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 07-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 07-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 07-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 07-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 07-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 07-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 08-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 08-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 08-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 08-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 08-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 08-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 08-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 08-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 08-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 08-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 08-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 08-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 08-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 09-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 09-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 09-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 09-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 09-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 09-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 09-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 09-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 09-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 09-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 09-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 09-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 09-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 10-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 10-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 10-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 10-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 10-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 10-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 10-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 10-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 10-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 10-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 10-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 10-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 10-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 11-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 11-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 11-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 11-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 11-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 11-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 11-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 11-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 11-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 11-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 11-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 11-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 11-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 12-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 12-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 12-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 12-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 12-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 12-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 12-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 12-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 12-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 12-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 12-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 12-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 12-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 13-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 13-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 13-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 13-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 13-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 13-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 13-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 13-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 13-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 13-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 13-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 13-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 13-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 14-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 14-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 14-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 14-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 14-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 14-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 14-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 14-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 14-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 14-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 14-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 14-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 14-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Name 15-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell School 15-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Range 15-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Casting Time 15-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Ritual 15-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Save 15-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Duration 15-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Components 15-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Verbal 15-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Somatic 15-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Material 15-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Prepared 15-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "SpellSheet1_Spell Effect 15-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        }
+      }
+    }
+  }
+}

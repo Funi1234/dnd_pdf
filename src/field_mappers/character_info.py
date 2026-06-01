@@ -30,6 +30,11 @@ def map_character_info(char_data, fields, layout='combined'):
         fields[f'Front_Class{suffix}'] = class_name
         fields[f'Front_Level{suffix}'] = level
 
+    # Specialist/Archetype (subclass)
+    specialist = char_data['character_info'].get('specialist', '')
+    if specialist:
+        fields[f'Front_Archetype{suffix}'] = specialist
+
     # Racial traits (summary of key racial features)
     racial_traits = get_racial_traits(char_data)
     if racial_traits:

@@ -1,0 +1,1511 @@
+{
+  "metadata": {
+    "class_name": "Barbarian",
+    "template_name": "Barbarian EU A4",
+    "source_pdf": "Barbarian_EU A4.pdf",
+    "total_fields": 879,
+    "total_pages": 6,
+    "pages_with_fields": 3,
+    "extraction_note": "Fields organized by page and category"
+  },
+  "pages": {
+    "page_2": {
+      "page_number": 2,
+      "field_count": 137,
+      "categories": {
+        "abilities": {
+          "count": 15,
+          "fields": [
+            {
+              "name": "Front_Str Mod-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Str Score-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Dex Mod-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Dex Score-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Con Mod-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Con Score-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Int Mod-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Int Score-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Wis Mod-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Wis Score-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Cha Mod-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Cha Score-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Intimidation-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Intimidation-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Intimidation-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "character_info": {
+          "count": 5,
+          "fields": [
+            {
+              "name": "Front_Character Name-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Race-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Background-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Alignment-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Level-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "combat": {
+          "count": 13,
+          "fields": [
+            {
+              "name": "Front_Initiative-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Speed-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Max HP-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Current HP-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Temp HP-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Used Hit Dice-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Total Hit Dice-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Damage 1-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Damage 2-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Damage 3-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Damage 4-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Damage 5-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Rage Damage-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "equipment": {
+          "count": 13,
+          "fields": [
+            {
+              "name": "Front_Inspiration-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Simple Weapons-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Martial Weapons-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Name 1-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Atk Bonus 1-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Name 2-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Atk Bonus 2-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Name 3-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Atk Bonus 3-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Name 4-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Atk Bonus 4-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Name 5-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Weapon Atk Bonus 5-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "features": {
+          "count": 8,
+          "fields": [
+            {
+              "name": "Front_Proficiency-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Racial Traits-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Languages-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Additional Combat Features-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Primal Feature 3-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Primal Feature 6-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Primal Feature 10-Alt-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Primal Feature 14-Alt-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "other": {
+          "count": 18,
+          "fields": [
+            {
+              "name": "Front_XP-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Archetype-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Light Armour-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Medium Armour-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Heavy Armour-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Shields-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Tools-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_AC-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Shield Bonus-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Success 1-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Success 2-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Success 3-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Fail 1-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Fail 2-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Fail 3-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Rage Used-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Rage Total-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Brutal Critical Die-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "saving_throws": {
+          "count": 12,
+          "fields": [
+            {
+              "name": "Front_Save Str-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Str Save Throw-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Save Dex-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Dex Save Throw-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Save Con-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Con Save Throw-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Save Int-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Int Save Throw-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Save Wis-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Wis Save Throw-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Save Cha-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Cha Save Throw-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "skills": {
+          "count": 53,
+          "fields": [
+            {
+              "name": "Front_Passive Perception-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Passive Insight-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Athletics-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Athletics-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Athletics-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Acrobatics-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Acrobatics-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Acrobatics-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Sleight of Hand-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Sleight of Hand-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Sleight of Hand-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Stealth-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Stealth-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Stealth-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Arcana-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Arcana-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Arcana-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise History-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency History-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill History-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Investigation-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Investigation-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Investigation-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Nature-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Nature-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Nature-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Religion-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Religion-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Religion-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Animal Handling-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Animal Handling-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Animal Handling-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Insight-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Insight-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Insight-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Medicine-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Medicine-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Medicine-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Perception-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Perception-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Perception-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Survival-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Survival-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Survival-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Deception-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Deception-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Deception-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Performance-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Performance-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Performance-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Expertise Persuasion-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Proficiency Persuasion-Alt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Skill Persuasion-Alt",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        }
+      }
+    },
+    "page_3": {
+      "page_number": 3,
+      "field_count": 57,
+      "categories": {
+        "abilities": {
+          "count": 1,
+          "fields": [
+            {
+              "name": "Back_Character Portrait",
+              "type": "/Btn",
+              "default_value": ""
+            }
+          ]
+        },
+        "character_info": {
+          "count": 2,
+          "fields": [
+            {
+              "name": "Back_Character Name",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Background",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "equipment": {
+          "count": 5,
+          "fields": [
+            {
+              "name": "Back_CP",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_SP",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_EP",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_GP",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_PP",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "features": {
+          "count": 2,
+          "fields": [
+            {
+              "name": "Back_Personality Traits",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Additional Features & Traits",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "other": {
+          "count": 43,
+          "fields": [
+            {
+              "name": "Back_Age",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Height",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Weight",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Distinguishing Marks",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Eyes",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Skin",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Hair",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Scars",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Enemies",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Head",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Head",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Amulet",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Amulet",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Cloak",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Cloak",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Armour",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Armour",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Arms",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Arms",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Ring1",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Ring1",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Ring2",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Ring2",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Belt",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Belt",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Boots",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Boots",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 01",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 01",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 01",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 02",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 02",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 02",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 03",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 03",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 03",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 04",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 04",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 04",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 05",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 05",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 05",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Backpack",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "personality": {
+          "count": 4,
+          "fields": [
+            {
+              "name": "Back_Ideals",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Bonds",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Flaws",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Allies",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        }
+      }
+    },
+    "page_4": {
+      "page_number": 4,
+      "field_count": 81,
+      "categories": {
+        "abilities": {
+          "count": 13,
+          "fields": [
+            {
+              "name": "Back_Character Portrait-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Str-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Str-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Dex-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Dex-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Con-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Con-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Int-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Int-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Wis-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Wis-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Cha-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Prof Cha-SK",
+              "type": "/Btn",
+              "default_value": ""
+            }
+          ]
+        },
+        "character_info": {
+          "count": 2,
+          "fields": [
+            {
+              "name": "Back_Character Name-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Background-SK",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "combat": {
+          "count": 8,
+          "fields": [
+            {
+              "name": "Front_Servant HP-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant AC-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Initiative-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Speed-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Attack Name 1-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Damage 1-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Attack Name 2-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Damage 2-SK",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "equipment": {
+          "count": 5,
+          "fields": [
+            {
+              "name": "Back_CP-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_SP-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_EP-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_GP-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_PP-SK",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "features": {
+          "count": 2,
+          "fields": [
+            {
+              "name": "Front_Servant Features-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Personality Traits-SK",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "other": {
+          "count": 47,
+          "fields": [
+            {
+              "name": "Back_Age-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Height-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Weight-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Distinguishing Marks-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Eyes-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Skin-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Hair-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Scars-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Enemies-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Skills-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Senses-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Atk Bonus 1-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Front_Servant Atk Bonus 2-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Head-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Head-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Amulet-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Amulet-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Cloak-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Cloak-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Armour-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Armour-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Arms-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Arms-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Ring1-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Ring1-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Ring2-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Ring2-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Belt-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Belt-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Boots-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Boots-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 01-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 01-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 01-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 02-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 02-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 02-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 03-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 03-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 03-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 04-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 04-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 04-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Name 05-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Attune_Item 05-SK",
+              "type": "/Btn",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Item Effect 05-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Backpack-SK",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        },
+        "personality": {
+          "count": 4,
+          "fields": [
+            {
+              "name": "Back_Ideals-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Flaws-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Bonds-SK",
+              "type": "/Tx",
+              "default_value": ""
+            },
+            {
+              "name": "Back_Allies-SK",
+              "type": "/Tx",
+              "default_value": ""
+            }
+          ]
+        }
+      }
+    }
+  }
+}

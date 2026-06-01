@@ -14,6 +14,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
 from pypdf import PdfReader, PdfWriter
 from src.pdf_utils import modify_field_font_size
+from src.image_utils import embed_image_in_page
 from src.field_mappers import (
     map_core_fields,
     map_character_info,
@@ -23,7 +24,8 @@ from src.field_mappers import (
     map_combat,
     map_spells,
     map_proficiencies,
-    map_weapons
+    map_weapons,
+    map_background
 )
 
 
@@ -107,13 +109,14 @@ def interactive_weapon_selection(weapons):
         return [w['name'] for w in weapons[:3]]
 
 
-def create_field_mappings(char_data, layout='combined', interactive=False):
+def create_field_mappings(char_data, layout='combined', background_page='regular', interactive=False):
     """
     Build field mapping dictionary using modular mappers
 
     Args:
         char_data: Character data dictionary
         layout: 'combined' for page 1, 'separate' for page 2
+        background_page: 'regular' for standard background page, 'sidekick' for sidekick page
         interactive: If True, prompt for weapon selection
 
     Returns:
@@ -154,6 +157,7 @@ def create_field_mappings(char_data, layout='combined', interactive=False):
     map_combat(char_data, fields, layout=layout, level=level)
     map_proficiencies(char_data, fields, layout=layout)
     map_weapons(char_data, fields, layout=layout)
+    map_background(char_data, fields, background_page=background_page)
     map_spells(char_data, fields, layout=layout)
 
     return fields
@@ -251,6 +255,8 @@ Examples:
                         help='Path for output PDF file')
     parser.add_argument('--layout', '-l', choices=['combined', 'separate'], default='separate',
                         help='Layout type: combined (page 1) or separate (page 2). Default: separate')
+    parser.add_argument('--background-page', '-b', choices=['regular', 'sidekick'], default='regular',
+                        help='Background page type: regular or sidekick. Default: regular')
     parser.add_argument('--interactive', '-i', action='store_true',
                         help='Interactive mode: prompt for weapon selection if more than 3 available')
 
@@ -274,7 +280,7 @@ Examples:
 
     # Create field mappings
     print("\n🗺️  Creating field mappings...")
-    field_values = create_field_mappings(char_data, layout=args.layout, interactive=args.interactive)
+    field_values = create_field_mappings(char_data, layout=args.layout, background_page=args.background_page, interactive=args.interactive)
     print(f"  Mapped {len(field_values)} fields")
 
     # Load template
@@ -314,6 +320,21 @@ Examples:
         print("\n  Errors:")
         for error in errors[:10]:
             print(f"    {error}")
+
+    # Insert portrait if available
+    portrait_path = char_data['character_info'].get('portrait_image')
+    if portrait_path:
+        print("\n🖼️  Embedding character portrait...")
+        # Try to find background page (usually page with portrait field)
+        # We'll check all pages for an image field
+        portrait_added = False
+        for page_num in range(len(writer.pages)):
+            if embed_image_in_page(writer, page_num, portrait_path, verbose=True):
+                portrait_added = True
+                break
+
+        if not portrait_added:
+            print("  ⚠️  No image field found in template")
 
     # Save output
     os.makedirs(os.path.dirname(args.output) if os.path.dirname(args.output) else '.', exist_ok=True)

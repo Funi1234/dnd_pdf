@@ -1,0 +1,3462 @@
+{
+  "Front_Character Name": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Race": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Background": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Alignment": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_XP": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Level": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Archetype": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Proficiency": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Passive Perception": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Inspiration": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Passive Insight": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Str Mod": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Str Score": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Dex Mod": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Dex Score": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Con Mod": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Con Score": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Int Mod": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Int Score": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Wis Mod": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Wis Score": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Cha Mod": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Cha Score": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Save Str": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Str Save Throw": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Athletics": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Athletics": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Athletics": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Save Dex": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Dex Save Throw": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Acrobatics": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Acrobatics": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Acrobatics": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Sleight of Hand": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Sleight of Hand": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Sleight of Hand": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Stealth": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Stealth": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Stealth": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Save Con": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Con Save Throw": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Save Int": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Int Save Throw": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Arcana": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Arcana": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Arcana": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise History": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency History": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill History": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Investigation": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Investigation": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Investigation": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Nature": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Nature": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Nature": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Religion": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Religion": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Religion": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Save Wis": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Wis Save Throw": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Animal Handling": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Animal Handling": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Animal Handling": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Insight": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Insight": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Insight": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Medicine": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Medicine": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Medicine": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Perception": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Perception": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Perception": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Survival": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Survival": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Survival": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Save Cha": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Cha Save Throw": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Deception": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Deception": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Deception": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Intimidation": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Intimidation": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Intimidation": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Performance": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Performance": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Performance": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Persuasion": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Persuasion": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Persuasion": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Racial Traits": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Light Armour": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Medium Armour": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Heavy Armour": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Simple Weapons": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Martial Weapons": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Shields": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Languages": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Tools": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_AC": {
+    "type": "/Tx",
+    "default_value": "19"
+  },
+  "Front_Shield Bonus": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Initiative": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Speed": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Max HP": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Current HP": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Temp HP": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Used Hit Dice": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Total Hit Dice": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Success 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Success 2": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Success 3": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Fail 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Fail 2": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Fail 3": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Weapon Name 1": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Atk Bonus 1": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Damage 1": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Name 2": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Atk Bonus 2": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Damage 2": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Name 3": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Atk Bonus 3": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Damage 3": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Cantrips Known": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Spells Known": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Spell Slot 1st 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 1st 2": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 1st 3": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 1st 4": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 2nd 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 2nd 2": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 2nd 3": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 3rd 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 3rd 2": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 3rd 3": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 4th 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 4th 2": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 4th 3": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 5th 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 5th 2": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Feature 4": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Domain Spells 1st": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Domain Spells 2nd": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Domain Spells 3rd": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Domain Spells 4th": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Domain Spells 5th": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Feature 7": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Feature 9": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Character Name-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Race-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Background-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Alignment-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_XP-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Level-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Archetype-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Proficiency-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Passive Perception-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Inspiration-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Passive Insight-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Str Mod-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Str Score-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Dex Mod-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Dex Score-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Con Mod-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Con Score-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Int Mod-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Int Score-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Wis Mod-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Wis Score-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Cha Mod-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Cha Score-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Save Str-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Str Save Throw-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Athletics-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Athletics-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Athletics-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Save Dex-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Dex Save Throw-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Acrobatics-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Acrobatics-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Acrobatics-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Sleight of Hand-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Sleight of Hand-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Sleight of Hand-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Stealth-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Stealth-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Stealth-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Save Con-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Con Save Throw-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Save Int-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Int Save Throw-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Arcana-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Arcana-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Arcana-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise History-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency History-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill History-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Investigation-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Investigation-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Investigation-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Nature-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Nature-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Nature-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Religion-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Religion-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Religion-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Save Wis-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Wis Save Throw-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Animal Handling-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Animal Handling-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Animal Handling-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Insight-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Insight-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Insight-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Medicine-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Medicine-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Medicine-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Perception-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Perception-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Perception-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Survival-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Survival-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Survival-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Save Cha-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Cha Save Throw-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Deception-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Deception-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Deception-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Intimidation-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Intimidation-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Intimidation-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Performance-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Performance-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Performance-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Expertise Persuasion-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Proficiency Persuasion-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Skill Persuasion-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Racial Traits-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Light Armour-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Medium Armour-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Heavy Armour-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Simple Weapons-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Martial Weapons-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Shields-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Languages-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Tools-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_AC-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Shield Bonus-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Initiative-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Speed-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Max HP-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Current HP-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Temp HP-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Used Hit Dice-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Total Hit Dice-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Success 1-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Success 2-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Success 3-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Fail 1-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Fail 2-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Fail 3-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Weapon Name 1-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Atk Bonus 1-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Damage 1-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Name 2-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Atk Bonus 2-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Damage 2-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Name 3-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Atk Bonus 3-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Weapon Damage 3-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Cantrips Known-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Spells Known-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Spell Slot 1st 1-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 1st 2-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 1st 3-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 1st 4-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 2nd 1-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 2nd 2-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 2nd 3-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 3rd 1-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 3rd 2-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 3rd 3-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 4th 1-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 4th 2-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 4th 3-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 5th 1-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Spell Slot 5th 2-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Feature 4-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Domain Spells 1st-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Domain Spells 2nd-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Domain Spells 3rd-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Domain Spells 4th-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Domain Spells 5th-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Feature 7-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Feature 9-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Character Name": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Age": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Height": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Weight": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Distinguishing Marks": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Eyes": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Skin": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Hair": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Scars": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Character Portrait": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Personality Traits": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Ideals": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Bonds": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Flaws": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Background": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Allies": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Enemies": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Additional Features & Traits": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Head": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Head": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Amulet": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Amulet": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Cloak": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Cloak": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Armour": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Armour": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Arms": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Arms": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Ring1": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Ring1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Ring2": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Ring2": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Belt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Belt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Boots": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Boots": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_CP": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_SP": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_EP": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_GP": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_PP": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Item Name 01": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Item Effect 01": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Item 01": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Item Name 02": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Item Effect 02": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Item 02": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Item Name 03": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Item Effect 03": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Item 03": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Item Name 04": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Item Effect 04": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Item 04": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Item Name 05": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Item Effect 05": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Item 05": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Backpack": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Character Name-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Age-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Height-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Weight-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Distinguishing Marks-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Eyes-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Skin-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Hair-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Scars-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Character Portrait-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Personality Traits-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Ideals-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Flaws-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Bonds-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Background-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Allies-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Enemies-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant HP-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant AC-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Initiative-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Speed-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Str-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Prof Str-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Servant Dex-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Prof Dex-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Servant Con-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Prof Con-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Servant Int-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Prof Int-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Servant Wis-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Prof Wis-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Servant Cha-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Prof Cha-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Front_Servant Skills-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Senses-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Attack Name 1-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Atk Bonus 1-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Damage 1-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Attack Name 2-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Atk Bonus 2-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Damage 2-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Front_Servant Features-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Head-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Head-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Amulet-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Amulet-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Cloak-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Cloak-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Armour-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Armour-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Arms-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Arms-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Ring1-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Ring1-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Ring2-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Ring2-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Belt-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Belt-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Boots-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Boots-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_CP-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_SP-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_EP-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_GP-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_PP-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Item Name 01-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Item 01-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Item Effect 01-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Item Name 02-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Item 02-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Item Effect 02-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Item Name 03-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Item 03-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Item Effect 03-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Item Name 04-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Item 04-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Item Effect 04-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Item Name 05-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Attune_Item 05-SK": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "Back_Item Effect 05-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "Back_Backpack-SK": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spell Atk": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spell DC": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Cantrips Known": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Known": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Component Pouch": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Slot 1st 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 1st 2": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 1st 3": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 1st 4": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 2nd 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 2nd 2": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 2nd 3": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 3rd 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 3rd 2": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 3rd 3": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 4th 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 4th 2": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 4th 3": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 5th 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 5th 2": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 5th 3": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 6th 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 6th 2": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 7th 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 7th 2": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 8th 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Slot 9th 1": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spellcasting Focus": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 01": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 01": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 01": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 01": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 01": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 01": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 01": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 01": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 01": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 01": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 01": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 01": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 01": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 01": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 01": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 02": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 02": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 02": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 02": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 02": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 02": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 02": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 02": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 02": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Component 02": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 02": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 02": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 02": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 02": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 02": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 03": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 03": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 03": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 03": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 03": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 03": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 03": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 03": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 03": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 03": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 03": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 03": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 03": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 03": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 03": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 04": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 04": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 04": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 04": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 04": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 04": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 04": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 04": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 04": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 04": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 04": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 04": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 04": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 04": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 04": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 05": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 05": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 05": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 05": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 05": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 05": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 05": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 05": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 05": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 05": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 05": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 05": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 05": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 05": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 05": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 06": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 06": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 06": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 06": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 06": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 06": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 06": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 06": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 06": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 06": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 06": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 06": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 06": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 06": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 06": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 07": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 07": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 07": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 07": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 07": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 07": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 07": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 07": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 07": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 07": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 07": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 07": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 07": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 07": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 07": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 08": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 08": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 08": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 08": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 08": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 08": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 08": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 08": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 08": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 08": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 08": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 08": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 08": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 08": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 08": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 09": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 09": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 09": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 09": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 09": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 09": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 09": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 09": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 09": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 09": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 09": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 09": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 09": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 09": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 09": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 10": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 10": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 10": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 10": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 10": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 10": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 10": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 10": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 10": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 10": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 10": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 10": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 10": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 10": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 10": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 11": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 11": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 11": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 11": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 11": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 11": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 11": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 11": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 11": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 11": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 11": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 11": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 11": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 11": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 11": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 12": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 12": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 12": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 12": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 12": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 12": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 12": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 12": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 12": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 12": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 12": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 12": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 12": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 12": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 12": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 01-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 01-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 01-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 01-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 01-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 01-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 01-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 01-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 01-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 01-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 01-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 01-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 01-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 01-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 01-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 02-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 02-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 02-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 02-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 02-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 02-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 02-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 02-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 02-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Component 02-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 02-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 02-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 02-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 02-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 02-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 03-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 03-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 03-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 03-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 03-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 03-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 03-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 03-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 03-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 03-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 03-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 03-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 03-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 03-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 03-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 04-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 04-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 04-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 04-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 04-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 04-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 04-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 04-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 04-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 04-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 04-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 04-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 04-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 04-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 04-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 05-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 05-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 05-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 05-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 05-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 05-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 05-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 05-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 05-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 05-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 05-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 05-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 05-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 05-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 05-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 06-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 06-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 06-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 06-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 06-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 06-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 06-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 06-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 06-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 06-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 06-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 06-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 06-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 06-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 06-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 07-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 07-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 07-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 07-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 07-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 07-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 07-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 07-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 07-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 07-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 07-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 07-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 07-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 07-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 07-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 08-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 08-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 08-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 08-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 08-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 08-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 08-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 08-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 08-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 08-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 08-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 08-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 08-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 08-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 08-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 09-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 09-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 09-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 09-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 09-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 09-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 09-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 09-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 09-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 09-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 09-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 09-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 09-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 09-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 09-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 10-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 10-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 10-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 10-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 10-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 10-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 10-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 10-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 10-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 10-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 10-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 10-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 10-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 10-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 10-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 11-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 11-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 11-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 11-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 11-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 11-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 11-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 11-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 11-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 11-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 11-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 11-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 11-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 11-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 11-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 12-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 12-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 12-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 12-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 12-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 12-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 12-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 12-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 12-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 12-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 12-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 12-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 12-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 12-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 12-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 13-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 13-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 13-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 13-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 13-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 13-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 13-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 13-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 13-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 13-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 13-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 13-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 13-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 13-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 13-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 14-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 14-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 14-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 14-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 14-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 14-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 14-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 14-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 14-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 14-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 14-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 14-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 14-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 14-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 14-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell Name 15-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet 1_Spells Level 15-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Spell School 15-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Range 15-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Casting Time 15-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Ritual 15-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Save 15-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Duration 15-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Concentration 15-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Components 15-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  },
+  "SpellSheet1_Verbal 15-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Somatic 15-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Material 15-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Prepared 15-Alt": {
+    "type": "/Btn",
+    "default_value": "/Off"
+  },
+  "SpellSheet1_Spell Effect 15-Alt": {
+    "type": "/Tx",
+    "default_value": ""
+  }
+}

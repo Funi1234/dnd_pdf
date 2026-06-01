@@ -18,10 +18,13 @@ data/character_data/
 data/*_extracted.json
 data/*_character_data*.json
 
-# Ignore all source PDFs except examples
+# Ignore all source PDFs except committed class templates
 data/source_pdfs/*
-!data/source_pdfs/Cleric_EU A4.pdf
-!data/source_pdfs/Wizard_EU A4.pdf
+!data/source_pdfs/class_specific/
+!data/source_pdfs/class_specific/*/
+!data/source_pdfs/class_specific/*/*.pdf
+!data/source_pdfs/generic/
+!data/source_pdfs/generic/*.pdf
 
 # Example outputs (generated, not committed)
 examples/output_sheets/*.pdf

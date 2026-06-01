@@ -1,0 +1,9 @@
+{
+  "base_pdf": "data/source_pdfs/Neez-Artificer_EU A4.pdf",
+  "spell_sheet_template": "data/source_pdfs/Spell Sheet-2_EU A4.pdf",
+  "spell_markdown_dir": "/Users/dylan/Library/Mobile Documents/iCloud~md~obsidian/Documents/DnD/2. Mechanics/Spells",
+  "character_data": "data/character_data/neez_character_data.json",
+  "spell_data": "data/character_data/neez_spells_converted.json",
+  "spell_data_with_descriptions": "data/character_data/neez_spells_with_descriptions.json",
+  "output_dir": "output"
+}

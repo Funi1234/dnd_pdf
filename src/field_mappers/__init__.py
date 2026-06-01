@@ -12,6 +12,7 @@ from .combat import map_combat
 from .spells import map_spells
 from .proficiencies import map_proficiencies
 from .weapons import map_weapons
+from .background import map_background
 
 __all__ = [
     'map_core_fields',
@@ -23,4 +24,5 @@ __all__ = [
     'map_spells',
     'map_proficiencies',
     'map_weapons',
+    'map_background',
 ]

@@ -132,6 +132,55 @@ def fill_spell_sheet(spell_sheet_template, spells_to_fill, output_path, sheet_ti
     print(f"    ✓ Saved")
 
 
+def fill_widget_fields(writer, field_values):
+    """
+    Fill Widget annotation fields (D&D Beyond style PDFs)
+
+    Args:
+        writer: PdfWriter object
+        field_values: Dict of {field_name: value}
+
+    Returns:
+        int: Number of fields filled
+    """
+    filled_count = 0
+
+    for page in writer.pages:
+        if "/Annots" not in page:
+            continue
+
+        for annot in page["/Annots"]:
+            annot_obj = annot.get_object()
+
+            if annot_obj.get("/Subtype") != "/Widget":
+                continue
+
+            # Get field name
+            field_name = annot_obj.get("/T")
+            if not field_name:
+                continue
+
+            field_name_str = str(field_name)
+
+            # Check if we have a value for this field
+            if field_name_str in field_values:
+                value = str(field_values[field_name_str])
+
+                # Set the value
+                annot_obj[NameObject("/V")] = TextStringObject(value)
+                filled_count += 1
+
+                # For checkboxes, also set appearance state
+                if annot_obj.get("/FT") == "/Btn":
+                    # Checkbox: set /AS to value or /Off
+                    if value in ['Yes', 'On', '•', 'P']:
+                        annot_obj[NameObject("/AS")] = NameObject("/Yes")
+                    else:
+                        annot_obj[NameObject("/AS")] = NameObject("/Off")
+
+    return filled_count
+
+
 def get_pdf_fields(pdf_path, filter_str=None):
     """
     Get all form fields from a PDF, optionally filtered
